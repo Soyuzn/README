@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="Visitor Badge" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&color=9D67F7&center=true&vCenter=true&width=435&lines=Mishael+Gilland;Welcome+to+my+Profile!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&color=9D67F7&center=true&vCenter=true&width=435&lines=Hi+I'm+[Mishael+Gilland];Welcome+to+my+Profile!" alt="Typing SVG" /></a>
+    
 </h1>
 
 <h3 align="center">A passionate software developer from Indonesia 🇮🇩</h3>
